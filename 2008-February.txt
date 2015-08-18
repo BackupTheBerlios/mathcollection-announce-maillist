@@ -1,0 +1,21 @@
+From dietmar.lippold at informatik.uni-stuttgart.de  Sun Feb 17 15:07:21 2008
+From: dietmar.lippold at informatik.uni-stuttgart.de (Dietmar Lippold)
+Date: Sun, 17 Feb 2008 15:07:21 +0100 (CET)
+Subject: [Mathcollection-announce] Release 1.3.3 deployed
+Message-ID: <20080217140725.53FAFBC344@vis-mail.informatik.uni-stuttgart.de>
+
+Hello,
+
+today the first release of MathCollection on berliOS, realease 1.3.3,
+was deployed.
+
+Dietmar
+
+-- 
+Dietmar Lippold, Institut VIS, Universit?t Stuttgart
+Raum 1.461,  Universit?tsstra?e 38,  70569 Stuttgart
+Tel.: 0711 / 7816 - 435;      Fax: 0711 / 7816 - 340
+E-Mail:  dietmar.lippold at informatik.uni-stuttgart.de
+
+
+
